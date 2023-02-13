@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Red+Hat+Display:wght@500&display=swap');
+ 
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.whole{
+z-index: 1;
+position: absolute;
+}
+
+.wrapper{
+    height: 697px;
+    width: 450px;
+    left: 0px;
+    top: 0px;
+    border-radius: 20px;
+    background-color:#303030;
+    transform: translate(10px,120px);
+    z-index: 4;
+
+}
+
+
+.poto{
+    border-radius: 20px 20px 0px 0px;
+}
+
+.order{
+    height: 37px;
+    width: 354px;
+    border-radius: nullpx;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 37px;
+    letter-spacing: 0px;
+    text-align: center;
+    font-weight: 900;
+    color: #FF8AE9;
+}
+
+
+.you{
+    height: 78px;
+    width: 354px;
+    left: 48px;
+    top: 319px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    
+}
+
+.orderyou{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.shaviponi{
+    height: 98px;
+    width: 354px;
+    border-radius: 11px;
+    background-color:#444444 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 18px;
+    margin-left: 47px;
+
+}
+
+
+
+.aeee{
+    margin-top: 45px;
+}
+
+
+
+
+.meoreaeee{
+    margin-top: 17px;
+    height: 78px;
+    width: 354px;
+    left: 48px;
+    top: 319px;
+    border-radius: nullpx;
+    font-family: Red Hat Display;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+
+
+.ann{
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FF8AE9;
+    margin-right: 92px;
+}
+
+
+.youtube{
+    height: 48px;
+    width: 48px;
+    margin-left: 24px;
+}
+
+
+.chan{
+    height: 19px;
+    width: 52px;
+    border-radius: nullpx;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-right: 20px;
+
+ 
+}
+
+.year{
+    height: 21px;
+    width: 92px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    margin-right: 92px;
+}
+
+
+
+.purpleragaca{
+    height: 50px;
+    width: 354px;
+    left: 0px;
+    top: 0px;
+    border-radius: 11px;
+    background-color: #FF8AE9;
+    margin-top: 49px;
+    margin-left: 48px;
+}
+
+.proced{
+    height: 20px;
+    width: 150px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+
+
+
+.proceddiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.bolo{
+    height: 20px;
+    width: 96px;
+    border-radius: nullpx;
+    color: #686868;
+    margin-top: 32px;
+}
+
+
+.can{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
